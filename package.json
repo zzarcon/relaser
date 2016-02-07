@@ -1,7 +1,7 @@
 {
   "name": "relaser",
   "version": "0.2.0",
-  "description": "Javascript tool for release Node and Bower packages",
+  "description": "Javascript command line tool for release Node and Bower packages",
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test mocha --reporter spec --ui bdd --timeout 5000 tests/*.js"
@@ -12,7 +12,9 @@
     "module",
     "node",
     "npm",
-    "bower"
+    "bower",
+    "cli",
+    "command line"
   ],
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 # Relaser [![Build Status](https://travis-ci.org/zzarcon/relaser.svg?branch=master)](https://travis-ci.org/zzarcon/relaser) [![npm version](https://badge.fury.io/js/relaser.svg)](https://badge.fury.io/js/relaser) [![Dependency Status](https://david-dm.org/zzarcon/relaser.svg)](https://david-dm.org/zzarcon/relaser)
 
-> Javascript tool for release Node and Bower packages
+> Javascript command line tool for release Node and Bower packages
 
 
 ### Installation
