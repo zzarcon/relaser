@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "description": "Javascript tool for release Node and Bower packages",
   "main": "index.js",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "keywords": [
     "release",
     "package",
@@ -26,5 +24,8 @@
   "homepage": "https://github.com/zzarcon/relaser",
   "bin": {
     "relaser": "./index.js"
+  },
+  "dependencies": {
+    "progress": "^1.1.8"
   }
 }
