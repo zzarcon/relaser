@@ -14,10 +14,11 @@ Inside the root of your repository type
 
 ![](https://raw.github.com/zzarcon/relaser/master/relaser.gif)
 
-Where `version` is one of **patch**, **minor**, **major** according to the Npm and Bower docs (default is **patch**)
+Where `version` is a valid semver string or one of **patch**, **minor**, **major** according to the [Npm](https://docs.npmjs.com/cli/version) and [Bower](http://bower.io/docs/api/#version) docs (default is **patch**)
 
-* https://docs.npmjs.com/cli/version
-* http://bower.io/docs/api/#version
+* `$ relaser minor`
+* `$ relaser major`
+* `$ relaser 1.5.2`
 
 ### The configuration file AKA relaser.json
 Relaser uses a configuration file in order to know what should relase.
