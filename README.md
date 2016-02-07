@@ -1,2 +1,2 @@
 # relaser
-Javascript tool for release Node and Bower packages
+> Javascript tool for release Node and Bower packages
